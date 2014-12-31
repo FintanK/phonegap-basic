@@ -1,0 +1,14 @@
+2014-12-31 02:11:19.301 MyPhoneGapApp[23851:986724] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/dev/Library/Developer/CoreSimulator/Devices/82D49FAC-9329-401E-849B-5CE3E99F0E3C/data/Containers/Data/Application/71E328A0-0F5D-49D3-BF52-FABEAFB14268/Library/Cookies/Cookies.binarycookies
+2014-12-31 02:11:19.603 MyPhoneGapApp[23851:986724] Apache Cordova native platform version 3.7.0 is starting.
+2014-12-31 02:11:19.603 MyPhoneGapApp[23851:986724] Multi-tasking -> Device: YES, App: YES
+2014-12-31 02:11:19.617 MyPhoneGapApp[23851:986724] Unlimited access to network resources
+2014-12-31 02:11:19.631 MyPhoneGapApp[23851:986724] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2014-12-31 02:11:21.480 MyPhoneGapApp[23851:986724] Resetting plugins due to page load.
+2014-12-31 02:11:21.744 MyPhoneGapApp[23851:986724] Finished load of: file:///Users/dev/Library/Developer/CoreSimulator/Devices/82D49FAC-9329-401E-849B-5CE3E99F0E3C/data/Containers/Bundle/Application/385861D5-820A-4E46-8D13-D46A8E474414/MyPhoneGapApp.app/www/index.html
