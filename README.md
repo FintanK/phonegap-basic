@@ -1,6 +1,8 @@
 Phonegap Boilerplate
 ----------------------
 
+![](http://scottbolinger.com/wp-content/uploads/2014/02/phonegap-build-diagram.png)
+
 This project is a simple web application that uses Phonegap to generate a native app
 for IOS, Android, Blackberry and Windows Phone. It can be re-used for any projects of your own.
 
